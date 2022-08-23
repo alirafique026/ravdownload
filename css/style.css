@@ -4788,7 +4788,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   height: 40px;
   width: 40px;
   line-height: 50px;
-   background: #f97300;       /*changedddddddddddddddddddddddddddddddddddddddddddddddddd */
+   background: #ffffff;       /*changedddddddddddddddddddddddddddddddddddddddddddddddddd */
   color: var(--ltn__heading-color);
   text-align: center;
   -webkit-box-pack: center;
@@ -5417,7 +5417,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   .sticky-active.ltn__sticky-bg-white .ltn__header-options-2 .header-wishlist {
     -webkit-box-shadow: var(--ltn__box-shadow-1);
     box-shadow: var(--ltn__box-shadow-1);
-     background: #f97300; /*changeeeeeeeeeeeeeeeeeeed  */
+     background: #ffffff; /*changeeeeeeeeeeeeeeeeeeed  */
     color: var(--ltn__heading-color); }
 
 .header-contact-search {
