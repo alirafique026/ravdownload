@@ -4810,7 +4810,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .ltn__header-options-2 .header-search-1:hover,
 .ltn__header-options-2 .ltn__drop-menu > ul > li:hover > a,
 .ltn__header-options-2 .mini-cart-icon a:hover {
-  background: var(--ltn__secondary-color);
+   background: white; /*hover changedddddddddddddddddddddddddddddddddddddddddddddddddd */
   color: var(--white); }
 
 .ltn__header-options-2 .ltn__drop-menu.ltn__currency-menu > ul > li > a {
